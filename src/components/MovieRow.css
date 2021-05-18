@@ -1,0 +1,15 @@
+.movieRow{
+    margin-bottom: 30px;
+}
+.movieRow h2 {
+    margin: 0px 0px 0px 30px;
+}
+.movieRow--listarea{
+    overflow-x: hidden; /*tudo que passar da pagina na linha horizontal vai ser cortado*/
+}
+.movieRow--list{
+    width: 99999999999px;
+}
+.movieRow--item{
+    display: inline-block;
+}
