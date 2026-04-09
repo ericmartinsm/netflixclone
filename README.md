@@ -1,4 +1,4 @@
-# Barbercode
+# Netflixclone
 Aplicação para sintaxe de conhecimento em <strong>REACTJS </strong>
 
 # Usado
